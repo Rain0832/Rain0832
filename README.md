@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rain0832
-- 👀 I’m interested in Web-Dev, Software-Dev, AI-Model...
+- 👀 I’m interested in Cpp-Dev, Software-Dev...
 - 🌱 I’m currently learning everything about program。
 - 💞️ I’m looking to finding some like-minded friends to learn programming and software development together.
 - 📫 How to reach me : My Google eamil: rainrain45032@gmail.com.
@@ -48,7 +48,7 @@
 
 
 - 👋 嗨，我是@Rain0832
-- 👀 我对 Web 开发、软件开发、AI 模型等领域都感兴趣
+- 👀 我对 Cpp开发、软件开发等领域都感兴趣
 - 🌱 我目前正在学习有关程序的一切。
 - 💞️ 我正在寻找一些志同道合的朋友一起学习编程和软件开发。
 - 📫 如何联系我：我的 Google 电子邮件地址：rainrain45032@gmail.com。
