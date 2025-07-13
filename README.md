@@ -7,7 +7,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Undergraduate at **UESTC**, currently interning at **Siemens Industry Software**
+- 🎓 Undergraduate at [**UESTC**](https://en.uestc.edu.cn/), currently interning at [**Siemens Industry Software**](https://www.sw.siemens.com/en-US/)
 - 💬 Interested in: C++, OS , Networking, Storage Systems, Backend Infrastructure
 - 📘 Love learning: `C++23`, `Multithreading`, `Performance Optimization`, `System Programming`
 - 🍜 Fun fact: I just want to **sleep**, and **eat snacks all day...**
