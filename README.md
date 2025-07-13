@@ -41,7 +41,15 @@
 	- **⏳ [RainDisCache](https://github.com/Rain0832/RainDisCache):** Coming Soon......
 
 > 🧭 *Staying focused and building better every day.*
+---
 
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rain0832&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rain0832&layout=compact&theme=tokyonight" height="180px"/>
+</p>
+
+---
 ## 🧩 Featured Projects
 
 | Name                                                          | Description                                                                                                 | Tech Stack                                           |
@@ -52,13 +60,7 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rain0832&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rain0832&layout=compact&theme=tokyonight" height="180px"/>
-</p>
 
----
 
 ## 🌌 Contribution Activity
 <p align="center">
