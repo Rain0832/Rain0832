@@ -11,11 +11,11 @@
 I enjoy building **high-performance backend systems** and working near the system boundary —
 network protocol stacks, coroutine schedulers, memory management, log pipelines, and distributed services.
 
-🎓 Undergraduate at @ [**UESTC**](https://en.uestc.edu.cn/)
+🎓 Undergraduate at @[**UESTC**](https://en.uestc.edu.cn/)
 
-🏭 05/25~09/25: Digital Industries Software Engineer Intern @ [**Siemens DISW**](https://www.siemens.com/en-us/company/about/businesses/digital-industries/)
+🏭 05/25~09/25: Digital Industries Software Engineer Intern @[**Siemens DISW**](https://www.siemens.com/en-us/company/about/businesses/digital-industries/)
 
-🏢 12/25~Now: WeChat Cross-Platform Development Intern @ [**Tencent WXG**](https://www.tencent.com/en-us/)
+🏢 12/25~Now: WeChat Cross-Platform Development Intern @[**Tencent WXG**](https://www.tencent.com/en-us/)
 
 Currently focused on:
 
@@ -71,18 +71,14 @@ Building a lightweight backend infrastructure stack:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rain0832&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rain0832&theme=github-dark&hide_border=true"
-  />
-</p>
-
 ---
 
 ## 📫 Contact
 
 📧 Email: rainrain45032@gmail.com  
+
 🐙 GitHub: https://github.com/Rain0832
+
 💬 WeChat Official Account: 云Coding
 
 ---
