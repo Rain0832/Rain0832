@@ -63,7 +63,7 @@ Building a lightweight backend infrastructure stack:
     height="165px"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rain0832&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rain0832/Rain0832&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400"
     height="165px"
   />
 </p>
