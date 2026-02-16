@@ -61,10 +61,6 @@ Building a lightweight backend infrastructure stack:
   <img src="https://ghchart.rshah.org/58A6FF/Rain0832" alt="Rain0832" />
 </p>
 
----
-
-## 📈 Engineering Activity
-
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=Rain0832&theme=github-dark-blue&hide_border=true"
