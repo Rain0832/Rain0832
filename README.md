@@ -29,7 +29,7 @@ Currently focused on:
 
 ## 🔥 Featured Projects
 
-### 🧠 RainCppAI  
+### 🧠 [RainCppAI](https://github.com/Rain0832/RainCppAI.git)
 High-performance AI service platform built with C++.
 
 - Muduo-based asynchronous HTTP server
@@ -39,16 +39,13 @@ High-performance AI service platform built with C++.
 - ASR/TTS integration
 - Session & token authentication system
 
-Tech:
-`C++` `Muduo` `ONNXRuntime` `OpenCV` `RabbitMQ` `MySQL` `RAG`
-
----
-
-- ⚡ RainCache  
+### ⚡ [RainCache](https://github.com/Rain0832/RainCache.git) 
 Thread-safe high-performance in-memory cache system.
-- 🧩 RainMemoPool  
+
+### 🧩 [RainMemoPool](https://github.com/Rain0832/RainMemoPool.git)
 Three-layer memory allocator (Thread / Central / Page layer)
-- 🌐 RainWebServer (WIP)
+
+### 🌐 [RainWebServer (WIP)](https://github.com/Rain0832/RainWebServer.git)
 Building a lightweight backend infrastructure stack:
 1. Logging system
 2. Networking layer
@@ -58,11 +55,17 @@ Building a lightweight backend infrastructure stack:
 
 ---
 
-## 📈 GitHub Stats
+## ⚙️ Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rain0832&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rain0832&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Rain0832&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
+    height="165px"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rain0832&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400"
+    height="165px"
+  />
 </p>
 
 ---
