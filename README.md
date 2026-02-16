@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rain</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Infrastructure+/+Backend+Rookie;C%2B%2B+%7C+Go+%7C+Systems+%7C+Infrastructure;Built+High-Performance+Infrastructure+for+Millions;Obsessed+with+Latency%2C+Concurrency+and+Clean+Design">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=A+Infrastructure+/+Backend+Rookie;C%2B%2B+%7C+Go+%7C+Systems+%7C+Infrastructure;Built+High-Performance+Infrastructure+for+Millions;Obsessed+with+Latency%2C+Concurrency+and+Clean+Design">
 </p>
 
 ---
@@ -55,25 +55,30 @@ Building a lightweight backend infrastructure stack:
 
 ---
 
-## ⚙️ Engineering Metrics
+## 📊 Engineering Snapshot
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Rain0832&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
-    height="165px"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rain0832/Rain0832&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400"
-    height="165px"
-  />
+  <img src="https://ghchart.rshah.org/58A6FF/Rain0832" alt="Rain0832" />
 </p>
 
 ---
 
-## 📊 Contribution Graph
+## 📈 Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rain0832&theme=react-dark&hide_border=true"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=Rain0832&theme=github-dark-blue&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rain0832&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rain0832&theme=github-dark&hide_border=true"
+  />
 </p>
 
 ---
