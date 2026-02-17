@@ -11,11 +11,13 @@
 I enjoy building **high-performance backend systems** and working near the system boundary —
 network protocol stacks, coroutine schedulers, memory management, log pipelines, and distributed services.
 
+##### Education
 🎓 Undergraduate at @[**UESTC**](https://en.uestc.edu.cn/)
 
-🏭 05/25~09/25: Digital Industries Software Engineer Intern @[**Siemens DISW**](https://www.siemens.com/en-us/company/about/businesses/digital-industries/)
+##### Internship
+🏭 [05/25](https://calendar.google.com/calendar/u/0/r/month/2025/5/27?pli=1)~[09/25](https://calendar.google.com/calendar/u/0/r/month/2025/9/22?pli=1): Digital Industries Software Engineer Intern @[**Siemens DISW**](https://www.siemens.com/en-us/company/about/businesses/digital-industries/)
 
-🏢 12/25~Now: WeChat Cross-Platform Development Intern @[**Tencent WXG**](https://www.tencent.com/en-us/)
+🏢 [12/25](https://calendar.google.com/calendar/u/0/r/month/2025/12/16?pli=1)~Now: WeChat Cross-Platform Development Intern @[**Tencent WXG**](https://www.tencent.com/en-us/)
 
 Currently focused on:
 
@@ -58,13 +60,13 @@ Building a lightweight backend infrastructure stack:
 ## 📊 Engineering Snapshot
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/Rain0832" alt="Rain0832" />
-</p>
-
-<p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=Rain0832&theme=github-dark-blue&hide_border=true"
   />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/58A6FF/Rain0832" alt="Rain0832" />
 </p>
 
 <p align="center">
