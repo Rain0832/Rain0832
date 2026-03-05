@@ -17,7 +17,7 @@ network protocol stacks, coroutine schedulers, memory management, log pipelines,
 ##### Internship
 🏭 [05/25](https://calendar.google.com/calendar/u/0/r/month/2025/5/27?pli=1)~[09/25](https://calendar.google.com/calendar/u/0/r/month/2025/9/22?pli=1): Digital Industries Software Engineer Intern @[**Siemens DISW**](https://www.siemens.com/en-us/company/about/businesses/digital-industries/)
 
-🏢 [12/25](https://calendar.google.com/calendar/u/0/r/month/2025/12/16?pli=1)~Now: WeChat Cross-Platform Development Intern @[**Tencent WXG**](https://www.tencent.com/en-us/)
+🗪 [12/25](https://calendar.google.com/calendar/u/0/r/month/2025/12/16?pli=1)~Now: WeChat Cross-Platform Development Intern @[**Tencent WXG**](https://www.tencent.com/en-us/)
 
 Currently focused on:
 
