@@ -28,12 +28,11 @@ Undergraduate @ [**UESTC**](https://en.uestc.edu.cn/) · Biomedical Engineering 
 
 # 🔭 Currently Working On
 
-- AI Agent - Active
-
-· 🤖 Agent Pipeline Engineering — building Function Call toolchains and agent dispatch strategies inside WeChat
-· 🎨 Real-time UI Rendering — Markdown rendering engine and chat UI components for AI assistant interfaces
-· 🔧 MCP Tooling — learning Model Context Protocol, tool registration, and agentic workflow patterns
-· ⚡ Agentic System Design — model scheduling, context management, reactive UI via MCP-driven state
+AI Agent - Active
+- 🤖 Agent Pipeline Engineering — building Function Call toolchains and agent dispatch strategies inside WeChat
+- 🎨 Real-time UI Rendering — Markdown rendering engine and chat UI components for AI assistant interfaces
+- 🔧 MCP Tooling — learning Model Context Protocol, tool registration, and agentic workflow patterns
+- ⚡ Agentic System Design — model scheduling, context management, reactive UI via MCP-driven state
 
 ### 📚 What I'm Learning
 
