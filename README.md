@@ -13,10 +13,10 @@
 </p>
 
 # 🧠 About Me
-A transcoding college student from Mainland China, I am rubbish, but I am moving forward.
+A college student from Mainland China.
 
 ### 🎓 Education
-Undergraduate @ [**UESTC**](https://en.uestc.edu.cn/) · Biomedical Engineering (non-CS track, but clearly took a detour)
+Undergraduate @ [**UESTC**](https://en.uestc.edu.cn/) · Biomedical Engineering (Software Engineering)
 
 ### 💼 Experience
 
