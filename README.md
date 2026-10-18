@@ -24,7 +24,7 @@ Undergraduate @ [**UESTC**](https://en.uestc.edu.cn/) · Biomedical Engineering 
 |--------|------|---------|
 | 🏭 05/25 – 09/25 | Digital Industries Software Engineer Intern | [Siemens DISW](https://www.siemens.com/en-us/company/about/businesses/digital-industries/) |
 | 🗪 12/25 – 04/26 | WeChat Cross-Platform Development Intern | [Tencent WXG](https://www.tencent.com/en-us/) |
-| 🤖 04/26 – Present | WeChat AI Agent Development Intern | [Tencent WXG](https://www.tencent.com/en-us/) |
+| 🤖 04/26 – 08/26 | WeChat AI Agent Development Intern | [Tencent WXG](https://www.tencent.com/en-us/) |
 
 # 🔭 Currently Working On
 
@@ -116,6 +116,7 @@ AI Agent - Active
 📫 Contact Me
 
 - 📧 rainrain45032@gmail.com
+- 🕷️ [My Personal Blog](https://rainsite.icu/)
 - 🐙 [github.com/Rain0832](https://github.com/Rain0832)
 - 💬 WeChat Official Account: 云Coding
 
